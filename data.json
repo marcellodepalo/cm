@@ -7,14 +7,14 @@
 	{
 		"type": "video",
 		"time": 0.00,
-		"url" : "https://image"
+		"videoURL" : "https://images.unsplash.com/photo-1523626797181-8c5ae80d40c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80"
 	},
 	{
 		"type": "map",
 		"time": 0.00,
-		"corordinates": {
-			"lat": 44.0,
-			"long": 44.0
+		"coordinates": {
+			"latitude": 44.0,
+			"longitude": 44.0
 		}
 	},
 	{
@@ -22,13 +22,13 @@
 		"time": 0.00,
 		"title": "This is title",
 		"text": "MD data",
-		"url": "https://image"
+		"imageURL": "https://images.unsplash.com/photo-1523626797181-8c5ae80d40c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80"
 	},
 	{
 		"type": "text",
 		"time": 0.00,
 		"title": "This is title",
 		"text": "This is body",
-		"image": "https://image"
+		"imageURL": "https://images.unsplash.com/photo-1523626797181-8c5ae80d40c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80"
 	}
 ]
