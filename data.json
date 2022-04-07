@@ -1,0 +1,34 @@
+[
+	{
+		"type": "product",
+		"time": 00.0,
+		"skn" : "123456",
+	},
+	{
+		"type": "video",
+		"time": 00.0,
+		"url" : "https://image"
+	},
+	{
+		"type": "map",
+		"time": 00.0,
+		"corordinates": {
+			"lat": 44.0,
+			"long": 44.0
+		}
+	},
+	{
+		"type": "recipe",
+		"time": 00.0,
+		"title": "This is title",
+		"text": "MD data",
+		"url": "https://image"
+	},
+	{
+		"type": "text",
+		"time": 00.0,
+		"title": "This is title",
+		"text": "This is body",
+		"image": "https://image"
+	},
+]
